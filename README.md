@@ -16,6 +16,9 @@ by risk-adjusted return to help students find the best investment opportunities.
 - Value at Risk (VaR): worst case daily loss at 95% confidence
 - Monte Carlo simulation: 1000 randomized price path projections
 
+## Output
+![Monte Carlo Simulation](monte_carlo.png)
+
 ## Libraries
 - yfinance — real market data
 - pandas — data manipulation
